@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 import java.util.Map;
 import java.util.HashMap;
 
-
+// Hello World
 
 
 // This solution has complexity of O(n) and uses HashMap (can be substituted to a bit vector)
